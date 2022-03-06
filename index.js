@@ -39,4 +39,8 @@ function getInfo(){
       if (radio[i].checked==true)
       {
         // generate output with the checked radio
+
+        gender = radio[i].value;
+
+        
       
