@@ -22,4 +22,4 @@ bootsrap
 find me at victor.amiani.k@gmail.com
 ### License
 *This project I used MIT License to help people use it and edit as per their wishes*
-Copyright (c) 2022 **{List of contributors or company name}**
+Copyright (c) 2022 **VICTOR AMIANI**
