@@ -43,4 +43,9 @@ function getInfo(){
         gender = radio[i].value;
 
         // only one radio can be logically checked
+
+        return gender;
+}
+}
+}
       
