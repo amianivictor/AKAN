@@ -1,0 +1,27 @@
+body {
+    background: url(../images/white.jpeg) rgba(0, 0, 0, 0.2);
+    background-blend-mode: multiply;
+    font-family: cursive;
+    text-align: center;
+    color: black;
+}
+
+.header h3 {
+    padding: 15px;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.header img {
+    float: left;
+    margin-left: 0;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+.info p {
+    font-size: larger;
+    font-weight: 400;
+}
+
