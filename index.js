@@ -37,4 +37,6 @@ function getInfo(){
       for (var i = 0;  i<radio.length; i++)
       {
       if (radio[i].checked==true)
+      {
+        // generate output with the checked radio
       
