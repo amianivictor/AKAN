@@ -1,10 +1,15 @@
 body {
-    background: url(../images/white.jpeg) rgba(0, 0, 0, 0.2);
+    background-image: url(https://imgs.search.brave.com/3hzgq-7UBQHpxmNcYOvKUEp0__ZXhzdpjdSlYr3d14c/rs:fit:800:573:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2FhL2Y0/LzUyL2FhZjQ1MmM2/NmQ2ZGI5NzlmYjk1/MjQ1ODYwNWI0NDRj/LmpwZw);
+    background-repeat: no-repeat;
     background-blend-mode: multiply;
     font-family: cursive;
     text-align: center;
     color: black;
+    width: 100%;
+    background-size: cover;
 }
+
+
 
 .header h3 {
     padding: 15px;
